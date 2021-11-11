@@ -43,6 +43,46 @@ or game.Players.LocalPlayer.UserId == 123
 or game.Players.LocalPlayer.UserId == 123
 or game.Players.LocalPlayer.UserId == 123
 or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
 then
 print('user is whitelisted')
 else
