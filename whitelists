@@ -1,0 +1,30 @@
+if game.Players.LocalPlayer.UserId == 2221151191 
+or game.Players.LocalPlayer.UserId == 2413934366 
+or game.Players.LocalPlayer.UserId == 2573824158
+or game.Players.LocalPlayer.UserId == 2654141744 
+or game.Players.LocalPlayer.UserId == 2694529465  
+or game.Players.LocalPlayer.UserId == 1949603871 
+or game.Players.LocalPlayer.UserId == 1949603871 
+or game.Players.LocalPlayer.UserId == 2914623231 
+or game.Players.LocalPlayer.UserId == 2253517502
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+then
+print('user is whitelisted')
+else
+game.Players.LocalPlayer:Kick('Not Whitelisted')
+end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Games/Da%20Hood/SilentAimAimLock.lua"))()
+local keybind = "p"
+--Change the e to whatever keybind you want just make sure its lower case
+    DaHoodSettings.AimLock = false
+    Aiming.ShowFOV = false
+    Aiming.FOV = 40
