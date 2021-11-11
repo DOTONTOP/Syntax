@@ -27,6 +27,22 @@ or game.Players.LocalPlayer.UserId == 2857404509
 or game.Players.LocalPlayer.UserId == 855930044
 or game.Players.LocalPlayer.UserId == 1834485165
 or game.Players.LocalPlayer.UserId == 212003025
+or game.Players.LocalPlayer.UserId == 1416149412
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
+or game.Players.LocalPlayer.UserId == 123
 then
 print('user is whitelisted')
 else
